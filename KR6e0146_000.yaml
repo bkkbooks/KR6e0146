@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0146/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴鏡燈章
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1028.xml
+    old_id: X58n1028
+hash: sha256:c655d5c7ea7a22ecfa6834feb17b96ce461b265c50b97d57b330cf71e2cd7247

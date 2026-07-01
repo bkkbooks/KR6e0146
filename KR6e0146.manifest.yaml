@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6e0146/v1
+canonical_location: https://kanripo.org/bkk/KR6e0146/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴鏡燈章
+  identifiers:
+    alt_id:
+    - X58n1028
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1028.xml
+    old_id: X58n1028
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0146_000.yaml, hash: 'sha256:c655d5c7ea7a22ecfa6834feb17b96ce461b265c50b97d57b330cf71e2cd7247'}
+  - {seq: 1, filename: KR6e0146_001.yaml, hash: 'sha256:856cb582d7413bca4565c50baf59e0c51c07afd5abab48a5f71c1adece099f17'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0146_001.markers.yaml, hash: 'sha256:0daf475d9f1c9d0099283f14b75562ffd2f39e3a799eefd1e88ab56c8734b743'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0146_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2331
+  label: 華嚴鏡燈章
+  type: juan
+  level: 1
+hash: sha256:9dad7af97d79327af9350c69f5de85b6da75956c90cc0ea66b5524dd7475f307
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: X
