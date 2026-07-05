@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6e0146_000.yaml, hash: 'sha256:c655d5c7ea7a22ecfa6834feb17b96ce461b265c50b97d57b330cf71e2cd7247'}
-  - {seq: 1, filename: KR6e0146_001.yaml, hash: 'sha256:856cb582d7413bca4565c50baf59e0c51c07afd5abab48a5f71c1adece099f17'}
+  - {seq: 1, filename: KR6e0146_001.yaml, hash: 'sha256:3bff6e84195643c27851291b51f932d7c4aba7a12e957f96b019c49b6d819910'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0146_001.markers.yaml, hash: 'sha256:0daf475d9f1c9d0099283f14b75562ffd2f39e3a799eefd1e88ab56c8734b743'}
+  - {seq: 0, role: markers, filename: assets/KR6e0146_000.markers.yaml, hash: 'sha256:c813459707a98b0710fc420518bd07d402e86c9b70e78ed20b7e20cc4c7211fd'}
+  - {seq: 1, role: markers, filename: assets/KR6e0146_001.markers.yaml, hash: 'sha256:5a713a119286dc229d7ce0db851b9d6e5752f6f40e221148d8085a64e965e487'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 華嚴鏡燈章
   type: juan
   level: 1
-hash: sha256:9dad7af97d79327af9350c69f5de85b6da75956c90cc0ea66b5524dd7475f307
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4627fb16614df158a084bec39784ed20536efb9c011e8074d3283ab8735edee0
 editions:
 - short: X
